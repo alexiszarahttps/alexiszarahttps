@@ -1,11 +1,9 @@
-### Hola a todos 👋
-
-- 🔭 Estamos probando git
-- 🌱 Estamos aprendiendo diseño web
-- 👯 Queremos colaborar en temas de UX/UI
-- 🤔 Sabemos que Dani es una experta en Smoke Sales
-- 💬 No me preguntes nada porque no se
-
+<h1 align="center"><b>:wave: Hi! I'm Juan :wave:</b></h1>
+<p align="center">:computer: <b>Student Full Stack </b> :computer:</p>
+<hr>
+<p align="center">
+:zap:Alumno at <a href="https://github.com/nucba">Nucba</a>:zap: - :zap:Alumno at <a href="https://github.com/guayerd">Guayerd</a>:zap:
+</p>
 <hr/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alexiszarahttps&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&count_private=true"></p>
 
