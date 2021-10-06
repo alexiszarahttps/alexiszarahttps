@@ -1,4 +1,4 @@
-<h1 align="center"><b>:wave: Hi! I'm Juan :wave:</b></h1>
+<h1 align="center"><b>:wave: Hi! i'm Alexis :wave:</b></h1>
 <p align="center">:computer: <b>Student Full Stack </b> :computer:</p>
 <hr>
 <p align="center">
